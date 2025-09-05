@@ -82,6 +82,14 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## 🌐 Socials:
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR0dGg3aThkNnoyaTVzN24zMTZzMmJzZGcyaGpkaDZuenV1N2wzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/xbH3mG4SUUQmakGM5F/giphy.gif" width="75px">
+</div>
+<div align="center">
+    
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ray.arsy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raihanarsy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihanarsy3003@gmail.com) 
+</div>
