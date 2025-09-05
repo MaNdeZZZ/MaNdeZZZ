@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?  font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&width=725&lines=Hello!+I'm+Ray+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%E2%9A%99%EF%B8%8F;Always+Looking+For+New+Experiences+%F0%9F%8F%86" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
+<div align="center" margin-top=40px>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
