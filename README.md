@@ -77,7 +77,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=1000&pause=500&color=E9E600&center=true&width=725&lines=KATA-KATA+HARI+INI" alt="Typing SVG" /></a>
 </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ray.arsy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raihanarsy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihanarsy3003@gmail.com) 
