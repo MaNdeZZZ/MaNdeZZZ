@@ -43,17 +43,17 @@
 
 <p align="center">
   <a href="https://github.com/MaNdeZZZ">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hadafii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hadafii&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaNdeZZZ&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaNdeZZZ&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadafii&theme=algolia" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaNdeZZZ&theme=algolia" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadafii&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaNdeZZZ&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 <div align="center">
