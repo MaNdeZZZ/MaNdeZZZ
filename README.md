@@ -1,3 +1,9 @@
+# <div align="center">👾 Welcome to Ray's Github 👾</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&width=435&lines=Hello!+I'm+Ray+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%E2%9A%99%EF%B8%8F;Always+Looking+For+New+Experiences+%F0%9F%8F%86" alt="Typing SVG" /></a>
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on PT Areca Tungga Harsa<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning AI, Machine/Deep Learning, and Web Developer<br>💬 Ask me about NLP, Machine Learning, Laravel, and Flutter<br>⚡ Fun fact: I play Clash Of Clans<br>🎯 Goal: Become rich
 
