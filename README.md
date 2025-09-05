@@ -55,9 +55,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaNdeZZZ&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-![](https://github-contributor-stats.vercel.app/api?username=MaNdeZZZ&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<div align="center">
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=MaNdeZZZ&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+  [![](https://visitcount.itsvg.in/api?id=MaNdeZZZ&icon=0&color=1)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=MaNdeZZZ&icon=0&color=1)](https://visitcount.itsvg.in)
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
