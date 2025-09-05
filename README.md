@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td >
       <ul>
         <li>🔭 I’m currently working on <strong>PT Areca Tungga Harsa</strong></li>
         <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
@@ -22,7 +22,7 @@
         <li>🎯 Goal: <strong>Become rich</strong></li>
       </ul>
     </td>
-    <td valign="top" width="260">
+    <td width="260">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA0bXVxbHpqbDIwZXFxajBoMmY5ang3cWZsNzQ2NzNwbTB4d3BvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
            width="260" alt="gif" />
     </td>
