@@ -39,9 +39,28 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaNdeZZZ&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MaNdeZZZ&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaNdeZZZ&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
+
+<p align="center">
+  <a href="https://github.com/MaNdeZZZ">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hadafii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hadafii&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadafii&theme=algolia" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadafii&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect!</b>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
