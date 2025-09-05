@@ -10,7 +10,7 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhma3MxOTJiNDN5ODlsd2Yxd284MHNxNTdncmIyb2RwMm9vYXRtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcZ5VktZE7RgdDLE2P/giphy.gif" width="30px"> **About Me**
 
-<table style="border:none;">
+<table style="border:none;" align="center">
   <tr>
     <td style="border:none; vertical-align: top; padding-right: 20px;">
       <p>🔭 I’m currently working on <strong>PT Areca Tungga Harsa</strong></p>
