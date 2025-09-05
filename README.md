@@ -10,9 +10,19 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhma3MxOTJiNDN5ODlsd2Yxd284MHNxNTdncmIyb2RwMm9vYXRtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcZ5VktZE7RgdDLE2P/giphy.gif" width="30px"> **About Me**
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA0bXVxbHpqbDIwZXFxajBoMmY5ang3cWZsNzQ2NzNwbTB4d3BvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-
-🔭 I’m currently working on PT Areca Tungga Harsa<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning AI, Machine/Deep Learning, and Web Developer<br>💬 Ask me about NLP, Machine Learning, Laravel, and Flutter<br>⚡ Fun fact: I play Clash Of Clans<br>🎯 Goal: Become rich
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+🔭 I’m currently working on **PT Areca Tungga Harsa** <br>  
+👯 I’m looking to collaborate on **Open Source Projects** <br>  
+🌱 I’m currently learning **AI, Machine/Deep Learning, and Web Development** <br>  
+💬 Ask me about **NLP, Machine Learning, Laravel, and Flutter** <br>  
+⚡ Fun fact: I play **Clash Of Clans** <br>  
+🎯 Goal: **Become rich**  
+  </div>
+  <div>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA0bXVxbHpqbDIwZXFxajBoMmY5ang3cWZsNzQ2NzNwbTB4d3BvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250">
+  </div>
+</div>
 
 
 ## 🌐 Socials:
