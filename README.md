@@ -10,23 +10,22 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhma3MxOTJiNDN5ODlsd2Yxd284MHNxNTdncmIyb2RwMm9vYXRtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcZ5VktZE7RgdDLE2P/giphy.gif" width="30px"> **About Me**
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="padding-right: 20px;">
-    <p>🔭 I’m currently working on <strong>PT Areca Tungga Harsa</strong></p>
-    <p>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></p>
-    <p>🌱 I’m currently learning <strong>AI, Machine/Deep Learning, and Web Development</strong></p>
-    <p>💬 Ask me about <strong>NLP, Machine Learning, Laravel, and Flutter</strong></p>
-    <p>⚡ Fun fact: I play <strong>Clash Of Clans</strong></p>
-    <p>🎯 Goal: <strong>Become rich</strong></p>
-  </div>
-  <div>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA0bXVxbHpqbDIwZXFxajBoMmY5ang3cWZsNzQ2NzNwbTB4d3BvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
-         width="260" alt="gif" />
-  </div>
-</div>
-
-
-
+<table style="border:none;">
+  <tr>
+    <td style="border:none; vertical-align: top; padding-right: 20px;">
+      <p>🔭 I’m currently working on <strong>PT Areca Tungga Harsa</strong></p>
+      <p>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></p>
+      <p>🌱 I’m currently learning <strong>AI, Machine/Deep Learning, and Web Development</strong></p>
+      <p>💬 Ask me about <strong>NLP, Machine Learning, Laravel, and Flutter</strong></p>
+      <p>⚡ Fun fact: I play <strong>Clash Of Clans</strong></p>
+      <p>🎯 Goal: <strong>Become rich</strong></p>
+    </td>
+    <td style="border:none; vertical-align: top;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA0bXVxbHpqbDIwZXFxajBoMmY5ang3cWZsNzQ2NzNwbTB4d3BvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
+           width="260" alt="gif" />
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ray.arsy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raihanarsy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihanarsy3003@gmail.com) 
