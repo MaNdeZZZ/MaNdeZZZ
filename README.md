@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&center=true&width=725&lines=Hello!+I'm+Ray+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%E2%9A%99%EF%B8%8F;Always+Looking+For+New+Experiences+%F0%9F%8F%86" alt="Typing SVG" /></a>
 </div>
 
-<div align="center" margin-top=40px>
+<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
@@ -27,6 +27,9 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ray.arsy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raihanarsy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihanarsy3003@gmail.com) 
