@@ -55,16 +55,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaNdeZZZ&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 ![](https://github-contributor-stats.vercel.app/api?username=MaNdeZZZ&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=MaNdeZZZ&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRoa2VienIyOXYwczQxc2JybzN0eXhjZjdpdThmdWo4b2o3endvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lxh8lpst6AQDf38FfQ/giphy.gif" width="30px"> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaNdeZZZ&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
