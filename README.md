@@ -38,7 +38,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk3YjZhNHNxdjc2Ymxsc3ZqcHEzeDVzNGRnaWQ4YWlrbGd2NTRvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nAdmm3sad9gc5F5Zef/giphy.gif" width="30px"> **GitHub Stats**:
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk3YjZhNHNxdjc2Ymxsc3ZqcHEzeDVzNGRnaWQ4YWlrbGd2NTRvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nAdmm3sad9gc5F5Zef/giphy.gif" width="30px"> **GitHub Statistics**:
 
 <p align="center">
   <a href="https://github.com/MaNdeZZZ">
@@ -59,16 +59,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🏆 GitHub Trophies
+![](https://github-contributor-stats.vercel.app/api?username=MaNdeZZZ&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=MaNdeZZZ&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRoa2VienIyOXYwczQxc2JybzN0eXhjZjdpdThmdWo4b2o3endvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lxh8lpst6AQDf38FfQ/giphy.gif" width="30px"> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaNdeZZZ&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MaNdeZZZ&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=MaNdeZZZ&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ray.arsy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raihanarsy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihanarsy3003@gmail.com) 
