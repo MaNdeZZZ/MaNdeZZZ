@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFwZGM0eGt4aDk5NmZmY2oya3FzdHZpb3lhc3Zna2E5djBxc2R0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wn1DjIHKwcbtGbTVlO/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhma3MxOTJiNDN5ODlsd2Yxd284MHNxNTdncmIyb2RwMm9vYXRtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcZ5VktZE7RgdDLE2P/giphy.gif)" width="30px"> **About Me**
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhma3MxOTJiNDN5ODlsd2Yxd284MHNxNTdncmIyb2RwMm9vYXRtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcZ5VktZE7RgdDLE2P/giphy.gif" width="30px"> **About Me**
 🔭 I’m currently working on PT Areca Tungga Harsa<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning AI, Machine/Deep Learning, and Web Developer<br>💬 Ask me about NLP, Machine Learning, Laravel, and Flutter<br>⚡ Fun fact: I play Clash Of Clans<br>🎯 Goal: Become rich
 
 
