@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
- 💫 About Me
+## 💫 About Me
 🔭 I’m currently working on PT Areca Tungga Harsa<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning AI, Machine/Deep Learning, and Web Developer<br>💬 Ask me about NLP, Machine Learning, Laravel, and Flutter<br>⚡ Fun fact: I play Clash Of Clans<br>🎯 Goal: Become rich
 
 
