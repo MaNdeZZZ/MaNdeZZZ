@@ -10,24 +10,20 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhma3MxOTJiNDN5ODlsd2Yxd284MHNxNTdncmIyb2RwMm9vYXRtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcZ5VktZE7RgdDLE2P/giphy.gif" width="30px"> **About Me**
 
-<table>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>🔭 I’m currently working on <strong>PT Areca Tungga Harsa</strong></li>
-        <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
-        <li>🌱 I’m currently learning <strong>AI, Machine/Deep Learning, and Web Development</strong></li>
-        <li>💬 Ask me about <strong>NLP, Machine Learning, Laravel, and Flutter</strong></li>
-        <li>⚡ Fun fact: I play <strong>Clash Of Clans</strong></li>
-        <li>🎯 Goal: <strong>Become rich</strong></li>
-      </ul>
-    </td>
-    <td valign="top" width="260">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA0bXVxbHpqbDIwZXFxajBoMmY5ang3cWZsNzQ2NzNwbTB4d3BvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
-           width="240" alt="gif" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div>
+    🔭 I’m currently working on <b>PT Areca Tungga Harsa</b><br>
+    👯 I’m looking to collaborate on <b>Open Source Projects</b><br>
+    🌱 I’m currently learning <b>AI, Machine/Deep Learning, and Web Development</b><br>
+    💬 Ask me about <b>NLP, Machine Learning, Laravel, and Flutter</b><br>
+    ⚡ Fun fact: I play <b>Clash Of Clans</b><br>
+    🎯 Goal: <b>Become rich</b>
+  </div>
+  <div>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA0bXVxbHpqbDIwZXFxajBoMmY5ang3cWZsNzQ2NzNwbTB4d3BvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="220">
+  </div>
+</div>
+
 
 
 
