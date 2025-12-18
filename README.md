@@ -14,8 +14,8 @@
   <tr>
     <td style="border:none; vertical-align: top; padding-right: 20px;">
       <p>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></p>
-      <p>🌱 I’m currently learning <strong>AI, Machine/Deep Learning, and Web Development</strong></p>
-      <p>💬 Ask me about <strong>NLP, Machine Learning, Laravel, and Flutter</strong></p>
+      <p>🌱 I’m currently learning <strong>AI, Machine/Deep Learning, and Data Analyst</strong></p>
+      <p>💬 Ask me about <strong>NLP, Machine Learning, Deep Learning, and AI</strong></p>
       <p>⚡ Fun fact: I play <strong>Clash Of Clans</strong></p>
       <p>🎯 Goal: <strong>Become rich</strong></p>
     </td>
