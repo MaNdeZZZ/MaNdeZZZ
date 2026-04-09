@@ -66,10 +66,6 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=1000&pause=500&color=E9E600&center=true&width=725&lines=KATA-KATA+HARI+INI" alt="Typing SVG" /></a>
 </div>
 
